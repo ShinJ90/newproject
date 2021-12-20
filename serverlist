@@ -1,0 +1,4 @@
+telink.nos.oam,=,ssh,211.237.78.70,skt,5fpswldi,22,ssh,211.237.78.86,nos,1qaz@WSX,22,su - root,1qaz@WSX
+telink.nos.oam1,=,ssh,211.237.78.46,root,1qjsqudtkf,22,ssh,211.237.78.87,nos,1qaz@WSX,22,su - root,1qaz@WSX
+telink.nos.oam2,=,ssh,211.237.78.46,root,1qjsqudtkf,22,ssh,211.237.78.88,nos,1qaz@WSX,22,su - root,1qaz@WSX
+test.server1,=,ssh,192.168.0.237,root,nostech123,22
